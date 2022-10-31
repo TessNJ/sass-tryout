@@ -1,0 +1,10 @@
+$colour: rgb(51, 178, 227);
+
+h1 {
+  color: $colour;
+}
+
+article {
+  display: flex;
+  justify-content: space-between;
+}
